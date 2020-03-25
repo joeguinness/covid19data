@@ -17,7 +17,7 @@ contain the total number of confirmed cases
 in each county up to the update time. Zero
 counts can be left blank.
 
-# editing in excel
+# editing in spreadsheet programs
 
 If you edit a file in a spreadsheet program, the
 programs try to convert the dates to date format.
